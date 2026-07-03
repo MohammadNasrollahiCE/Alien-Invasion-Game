@@ -2,12 +2,20 @@ import pygame
 import sys
 from time import sleep
 
+print("start")
+
 from Classes import Settings
+print("Settings Ok")
 from Classes import Ship
+print("Ship Ok")
 from Classes import Alien
+print("Alien Ok")
 from Classes import GameStat
+print("GameStat Ok")
 from Classes import Buttom
+print("Buttom Ok")
 from Classes import Bullet
+print("Bullet Ok")
 
 class AlienInvasion:
     """ overal class to manage game assets and behavior """
@@ -235,4 +243,6 @@ class AlienInvasion:
 if __name__ == "__main__":
     #make a game instance and run the game
     ai = AlienInvasion()
+    print("befor runGame")
     ai.runGame()
+    print("after runGame")
