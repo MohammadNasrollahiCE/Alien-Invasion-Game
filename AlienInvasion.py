@@ -5,17 +5,11 @@ from time import sleep
 print("start")
 
 from Classes.Settings import Settings
-print("Settings Ok")
 from Classes.Ship import Ship
-print("Ship Ok")
 from Classes.Alien import Alien
-print("Alien Ok")
 from Classes.GameStat import GameState
-print("GameStat Ok")
 from Classes.Button import Button
-print("Buttom Ok")
 from Classes.Bullet import Bullet
-print("Bullet Ok")
 
 class AlienInvasion:
     """ overal class to manage game assets and behavior """
@@ -243,6 +237,4 @@ class AlienInvasion:
 if __name__ == "__main__":
     #make a game instance and run the game
     ai = AlienInvasion()
-    print("befor runGame")
     ai.runGame()
-    print("after runGame")
