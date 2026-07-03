@@ -1,5 +1,6 @@
 import pygame 
 import Settings
+import AlienInvasion
 from pygame.sprite import Sprite
 
 class Bullet(Sprite):

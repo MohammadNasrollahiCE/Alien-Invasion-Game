@@ -1,5 +1,6 @@
 import pygame
 import Serrings
+import AlienInvasion
 
 class Ship:
     """ a class to manage the ship """
