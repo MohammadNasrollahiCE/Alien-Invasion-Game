@@ -1,6 +1,5 @@
 import pygame
 from Classes import Settings
-import AlienInvasion
 from pygame.sprite import Sprite
 
 class Alien(Sprite):

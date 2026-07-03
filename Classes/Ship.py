@@ -1,6 +1,5 @@
 import pygame
 from Classes import Settings
-import AlienInvasion
 
 class Ship:
     """ a class to manage the ship """

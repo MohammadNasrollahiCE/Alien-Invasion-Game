@@ -1,6 +1,5 @@
 import pygame
 from Classes import Settings
-import AlienInvasion
 import pygame.font
 
 class Button:

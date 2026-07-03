@@ -1,6 +1,5 @@
 import pygame
 from Classes import Settings
-import AlineInvasion
 
 class GameState:
     """ track statitics for Alien Invasion """
