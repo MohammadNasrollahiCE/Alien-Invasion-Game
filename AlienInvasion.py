@@ -10,7 +10,7 @@ from Classes.Ship import Ship
 print("Ship Ok")
 from Classes.Alien import Alien
 print("Alien Ok")
-from Classes.GameStat import GameStat
+from Classes.GameStat import GameState
 print("GameStat Ok")
 from Classes.Button import Button
 print("Buttom Ok")
