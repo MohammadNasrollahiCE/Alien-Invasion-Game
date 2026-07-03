@@ -2,12 +2,12 @@ import pygame
 import sys
 from time import sleep
 
-import Settings
-import Ship
-import Alien
-import GameStat
-import Buttom
-import Bullet
+from Classes import Settings
+from Classes import Ship
+from Classes import Alien
+from Classes import GameStat
+from Classes import Buttom
+from Classes import Bullet
 
 class AlienInvasion:
     """ overal class to manage game assets and behavior """
