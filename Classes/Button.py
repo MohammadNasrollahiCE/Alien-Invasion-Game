@@ -1,5 +1,5 @@
 import pygame
-import Settings
+from Classes import Settings
 import AlienInvasion
 import pygame.font
 

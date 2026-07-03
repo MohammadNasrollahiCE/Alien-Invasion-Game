@@ -1,5 +1,5 @@
 import pygame
-import Settings
+from Classes import Settings
 import AlienInvasion
 
 class Ship:
