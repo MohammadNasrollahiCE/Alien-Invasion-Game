@@ -1,5 +1,5 @@
 import pygame
-import Serrings
+import Settings
 import AlienInvasion
 
 class Ship:
