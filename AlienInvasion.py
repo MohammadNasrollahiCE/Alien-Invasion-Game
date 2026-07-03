@@ -4,17 +4,17 @@ from time import sleep
 
 print("start")
 
-from Classes import Settings
+from Classes.Settings import Settings
 print("Settings Ok")
-from Classes import Ship
+from Classes.Ship import Ship
 print("Ship Ok")
-from Classes import Alien
+from Classes.Alien import Alien
 print("Alien Ok")
-from Classes import GameStat
+from Classes.GameStat import GameStat
 print("GameStat Ok")
-from Classes import Button
+from Classes.Button import Button
 print("Buttom Ok")
-from Classes import Bullet
+from Classes.Bullet import Bullet
 print("Bullet Ok")
 
 class AlienInvasion:
