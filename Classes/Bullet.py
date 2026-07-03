@@ -1,5 +1,5 @@
 import pygame 
-from Classes import Settings
+from Classes.Settings import Settings
 from pygame.sprite import Sprite
 
 class Bullet(Sprite):

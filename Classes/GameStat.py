@@ -1,5 +1,5 @@
 import pygame
-from Classes import Settings
+from Classes.Settings import Settings
 
 class GameState:
     """ track statitics for Alien Invasion """
