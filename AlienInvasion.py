@@ -12,7 +12,7 @@ from Classes import Alien
 print("Alien Ok")
 from Classes import GameStat
 print("GameStat Ok")
-from Classes import Buttom
+from Classes import Button
 print("Buttom Ok")
 from Classes import Bullet
 print("Bullet Ok")
